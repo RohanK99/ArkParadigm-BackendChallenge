@@ -14,7 +14,7 @@ By design choice the JSON requests are stored within in an array called requests
 {
     "requests": [
         {"request1": "data1"},
-        {"request2": "data2},
+        {"request2": "data2"},
     ]
 }
 ```
